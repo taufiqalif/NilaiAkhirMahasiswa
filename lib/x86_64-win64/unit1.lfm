@@ -3,7 +3,7 @@ object frmUtama: TfrmUtama
   Height = 347
   Top = 31
   Width = 481
-  Caption = 'Utama'
+  Caption = 'Nilai Mahasiswa'
   ClientHeight = 347
   ClientWidth = 481
   object btnHitung: TButton

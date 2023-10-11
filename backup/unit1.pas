@@ -42,7 +42,7 @@ implementation
 
 procedure TfrmUtama.btnHitungClick(Sender: TObject);
 var
-  Tugas, Absensi, UTS, UAS, NilaiAkhir: Float;
+  Tugas, Absensi, UTS, UAS, NilaiAkhir: Double;
 begin
   // Konversi input pengguna menjadi bilangan pecahan (Double)
   Tugas := StrToFloat(edtNilai.Text);
